@@ -1,0 +1,5 @@
+.sss{
+    text-decoration: overline underline;
+    
+    color: var(--app-color-secondary)!important;
+}

@@ -1,0 +1,32 @@
+.container-fluid{
+    background-color: var(app-color-tres);
+}
+
+
+.trj-serv{
+    padding: 5px;
+    background-color: white;
+    
+}
+
+
+
+.trj-serv i{
+    padding: 15px;
+    border: solid 1px var(--app-color-tres);
+}
+.trj-serv:hover i{
+    border: solid 1px var(--app-color-secondary);
+    transition: 1s;
+    color: var(--app-color-secondary);
+}
+
+h4{
+    font-family:sans-serif-pro;
+    font-weight: bold;
+}
+
+p{
+    font-family:sans-serif-pro;
+    font-weight: 700; 
+}
